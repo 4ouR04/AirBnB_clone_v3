@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Gedeon Obae Gekonge - [Github](https://github.com/Gedeonobae)/[Twitter](https://ttitter.com/) <br>
-Mildred Makori - [Github](https://github.com/kwamboka) / [Twitter](https://twitter.com/)
+Amos Mwongela Gabriel - [Github](https://github.com/cm-amos)/[Twitter](https://ttitter.com/) <br>
 
 Second part of Airbnb: Joann Vuong
 ## License
